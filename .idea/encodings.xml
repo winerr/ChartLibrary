@@ -3,9 +3,13 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/Function/ElementalFunctionWorker.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/Function/Function.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/Function/firstFunction.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/Function/secondFunction.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/drawChart/Form/Chart.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/drawChart/Form/ChartPanel.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/drawChart/Form/ChartType/Bubble.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/drawChart/Form/ChartType/Line.java" charset="UTF-16" />
-    <file url="file://$PROJECT_DIR$/src/drawChart/Form/MyPanel.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/drawChart/Form/ChartType/Primitives.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/drawChart/Form/drawChart.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/drawChart/Form/inputFunction.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/testLibrary.java" charset="UTF-16" />
